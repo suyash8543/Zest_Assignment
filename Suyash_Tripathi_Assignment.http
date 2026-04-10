@@ -1,0 +1,6 @@
+@Suyash_Tripathi_Assignment_HostAddress = http://localhost:5144
+
+GET {{Suyash_Tripathi_Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
