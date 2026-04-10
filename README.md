@@ -44,5 +44,5 @@ DTOs/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/StudentManagementAPI.git
-cd StudentManagementAPI
+git clone https://github.com/suyash8543/Zest_Assignment.git
+cd Zest_Assignment
